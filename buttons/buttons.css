@@ -1,0 +1,105 @@
+*{
+    margin: 10px 10px;
+}
+.youtube .button-1{
+    height: 36px;
+    width: 105px;
+    color: white;
+    background-color: rgb(163, 12, 12);
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    
+}
+.button-2{
+    height: 36px;
+    width: 62px;
+    color: blue;
+    background-color: white;
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    cursor: pointer;
+    
+}
+.tweeter .button{
+    height: 40px;
+    width: 105px;
+    color: white;
+    background-color: rgb(83, 141, 250);
+    border: solid;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.ubber .button{
+    height: 36px;
+    width: 115px;
+    color: white;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 2px;
+}
+.amazon .button{
+    height: 36px;
+    width: 150px;
+    color: black;
+    background-color: rgb(255, 216, 0);
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.github .button{
+    height: 40px;
+    width: 115px;
+    color: white;
+    background-color:rgb(46, 167, 79);
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.bootstrap .button-1{
+    height: 45px;
+    width: 140px;
+    color: white;
+    background-color: rgb(121, 82, 179);
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.bootstrap .button-2{
+    height: 45px;
+    width: 140px;
+    color: rgb(108, 117, 125);
+    background-color: white;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.linked-in .button-1{
+    height: 45px;
+    width: 300px;
+    color: white;
+    background-color: rgb(10, 102, 194);
+    border: none;
+    border-radius: 45px;
+    font-size: 20px;
+}
+.linked-in .button-2{
+    height: 45px;
+    width: 110px;
+    color: rgb(10, 102, 194);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 1px;
+}
